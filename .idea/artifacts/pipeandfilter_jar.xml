@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pipeandfilter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pipeandfilter_jar</output-path>
+    <root id="archive" name="pipeandfilter.jar">
+      <element id="module-output" name="pipeandfilter" />
+    </root>
+  </artifact>
+</component>

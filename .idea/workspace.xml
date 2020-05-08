@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pipeandfilter:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b21d488e-88bd-4612-914b-83535123a28b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1baXwSdMkyNRTPDbJZmJi5YbRWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="12" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="318" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pipeandfilter" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dallel\IdeaProjects\pipeandfilter\src\pipeandfilter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Snippet">
+    <configuration name="Snippet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pipeandfilter.Snippet" />
+      <module name="pipeandfilter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pipeandfilter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Snippett" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pipeandfilter.Snippett" />
+      <module name="pipeandfilter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pipeandfilter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Snippet" />
+        <item itemvalue="Application.Snippett" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b21d488e-88bd-4612-914b-83535123a28b" name="Default Changelist" comment="" />
+      <created>1588871416434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588871416434</updated>
+      <workItem from="1588871422017" duration="6248000" />
+      <workItem from="1588893383468" duration="2650000" />
+      <workItem from="1588896107479" duration="195000" />
+      <workItem from="1588948177697" duration="4926000" />
+      <workItem from="1588959118514" duration="70000" />
+      <workItem from="1588967741849" duration="2517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="0" key="#Project_Structure" timestamp="1588871456353">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="164" y="0" key="#Project_Structure/63.0.1217.720@63.0.1217.720" timestamp="1588871456353" />
+    <state x="81" y="2" key="#com.intellij.ide.util.MemberChooser" timestamp="1588968707979">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="81" y="2" key="#com.intellij.ide.util.MemberChooser/63.0.1217.720@63.0.1217.720" timestamp="1588968707979" />
+    <state x="339" y="103" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588969882392">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="339" y="103" key="#com.intellij.ide.util.TreeClassChooserDialog/63.0.1217.720@63.0.1217.720" timestamp="1588969882392" />
+    <state width="1162" height="133" key="GridCell.Tab.0.bottom" timestamp="1588969737399">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="133" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1588969737399" />
+    <state width="1162" height="133" key="GridCell.Tab.0.center" timestamp="1588969737399">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="133" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1588969737399" />
+    <state width="1162" height="133" key="GridCell.Tab.0.left" timestamp="1588969737399">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="133" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1588969737399" />
+    <state width="1162" height="133" key="GridCell.Tab.0.right" timestamp="1588969737399">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="133" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1588969737399" />
+    <state width="1162" height="205" key="GridCell.Tab.1.bottom" timestamp="1588883493545">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="205" key="GridCell.Tab.1.bottom/63.0.1217.720@63.0.1217.720" timestamp="1588883493545" />
+    <state width="1162" height="205" key="GridCell.Tab.1.center" timestamp="1588883493545">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="205" key="GridCell.Tab.1.center/63.0.1217.720@63.0.1217.720" timestamp="1588883493545" />
+    <state width="1162" height="205" key="GridCell.Tab.1.left" timestamp="1588883493545">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="205" key="GridCell.Tab.1.left/63.0.1217.720@63.0.1217.720" timestamp="1588883493545" />
+    <state width="1162" height="205" key="GridCell.Tab.1.right" timestamp="1588883493545">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1162" height="205" key="GridCell.Tab.1.right/63.0.1217.720@63.0.1217.720" timestamp="1588883493545" />
+    <state x="62" y="0" key="SettingsEditor" timestamp="1588969953831">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="62" y="0" key="SettingsEditor/63.0.1217.720@63.0.1217.720" timestamp="1588969953831" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1588882502088">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/63.0.1217.720@63.0.1217.720" timestamp="1588882502088" />
+    <state x="303" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1588967787639">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="303" y="144" key="com.intellij.ide.util.TipDialog/63.0.1217.720@63.0.1217.720" timestamp="1588967787639" />
+    <state x="62" y="0" key="new project wizard" timestamp="1588959187167">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="62" y="0" key="new project wizard/63.0.1217.720@63.0.1217.720" timestamp="1588959187167" />
+    <state x="180" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588895787768">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="180" y="-1" width="840" height="1034" key="search.everywhere.popup/63.0.1217.720@63.0.1217.720" timestamp="1588895787768" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pipeandfilter$Snippett.ic" NAME="Snippett Coverage Results" MODIFIED="1588881586379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pipeandfilter.*</FILTER>
+    </SUITE>
+  </component>
+</project>
